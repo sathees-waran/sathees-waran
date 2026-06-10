@@ -1,12 +1,10 @@
 <h1 align="center">Satheeswaran M</h1>
-
 <p align="center">
   Electronics & Communication Engineering Graduate &nbsp;|&nbsp; Embedded Systems &nbsp;|&nbsp; IoT
   <br/>
   Chennai, Tamil Nadu &nbsp;|&nbsp;
   <a href="mailto:satheeswaran.vnr@gmail.com">satheeswaran.vnr@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/sathees-waran">LinkedIn</a> &nbsp;|&nbsp;
-  +91-9025821226
+  <a href="https://linkedin.com/in/sathees-waran">LinkedIn</a>
 </p>
 
 ---
