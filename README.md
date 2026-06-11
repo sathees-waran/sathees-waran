@@ -57,6 +57,15 @@ Developed firmware for a microwave oven controller handling timing, mode selecti
 
 ---
 
+### Address Book
+`C` `GCC` `File Handling` `Structs` `Modular Programming`
+
+Developed a menu-driven console application in C to manage contacts with full CRUD operations. Features input validation (name, phone, e-mail), duplicate detection, substring-based search, and file-based persistence using a CSV-style flat file. Code is organized across multiple files with a clean header interface.
+
+[View Repository](https://github.com/sathees-waran/AddressBook-C)
+
+---
+
 ## Experience
 
 **Embedded Systems Intern** — Emertxe Information Technologies Pvt. Ltd. *(Jan 2026 – Feb 2026)*
