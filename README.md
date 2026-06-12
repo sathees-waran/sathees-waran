@@ -22,7 +22,7 @@ Electronics and Communication Engineering graduate with hands-on expertise in em
 | **Programming** | Embedded C, C / C++ |
 | **Microcontrollers** | ESP32, Arduino Uno, PIC16F877A (MPLAB IDE), ARM-based processors |
 | **Protocols** | SPI, UART, I2C, HTTP |
-| **Tools & IDEs** | MPLAB X IDE, PICSimLab, Arduino IDE, Android Studio, Firebase |
+| **Tools & IDEs** | Git / Github, MPLAB X IDE, PICSimLab, Arduino IDE, Android Studio, Firebase , MS Office|
 | **IoT Platforms** | Blynk IoT Cloud, Google Firebase Firestore |
 | **Concepts** | Firmware Development, GPIO, ADC, PWM, Sensor Interfacing, SDLC |
 
