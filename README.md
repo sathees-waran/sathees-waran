@@ -106,10 +106,6 @@ Rajalakshmi Engineering College, Chennai *(2022 – 2026)*
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sathees-waran&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathees-waran&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
