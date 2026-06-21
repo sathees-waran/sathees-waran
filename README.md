@@ -66,6 +66,15 @@ Developed a menu-driven console application in C to manage contacts with full CR
 
 ---
 
+### Image Steganography
+`C` `Bitwise Operations` `File I/O` `Modular Programming`
+
+Developed a command-line tool in C to hide and extract arbitrary files within BMP images using Least Significant Bit (LSB) encoding. Embeds metadata (magic string, file extension, file size) and secret file data directly into pixel bytes in a defined, deterministic order, enabling lossless decoding without external hints. Implements binary-safe file handling, capacity validation, and a clean encode/decode pipeline split across modular header/source files.
+
+[View Repository](https://github.com/sathees-waran/image-steganography-lsb-c)
+
+---
+
 ## Experience
 
 **Embedded Systems Intern** — Emertxe Information Technologies Pvt. Ltd. *(Jan 2026 – Feb 2026)*
