@@ -106,5 +106,11 @@ Rajalakshmi Engineering College, Chennai *(2022 – 2026)*
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sathees-waran&style=flat-square&color=grey" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathees-waran&layout=compact&theme=default" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sathees-waran/sathees-waran/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
