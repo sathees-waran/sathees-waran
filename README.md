@@ -1,113 +1,99 @@
-<h1 align="center">Satheeswaran M</h1>
-<p align="center">
-  Electronics & Communication Engineering Graduate &nbsp;|&nbsp; Embedded Systems &nbsp;|&nbsp; IoT
-  <br/>
-  Chennai, Tamil Nadu &nbsp;|&nbsp;
-  <a href="mailto:satheeswaran.vnr@gmail.com">satheeswaran.vnr@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/sathees-waran">LinkedIn</a>
-</p>
+<div align="center">
 
----
+# Satheeswaran M
 
-## About Me
+**Embedded Systems Engineer** &nbsp;|&nbsp; ECE Graduate 2026 &nbsp;|&nbsp; Virudhunagar, Tamilnadu, India
 
-Electronics and Communication Engineering graduate with hands-on expertise in embedded systems and IoT. Proficient in Embedded C, ESP32, Arduino, and PIC microcontrollers with practical experience in firmware development, hardware–software integration, and real-time system design. Completed two focused internships at Emertxe Information Technologies and delivered end-to-end embedded projects. Seeking a graduate role in embedded systems or IoT product development.
+[![Email](https://img.shields.io/badge/Email-satheeswaran.vnr%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:satheeswaran.vnr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sathees--waran-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathees-waran)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-2EA44F?style=flat)]()
 
----
+</div>
 
-## Technical Skills
+<br/>
 
-| Area | Technologies |
-|---|---|
-| **Programming** | Embedded C, C / C++ |
-| **Microcontrollers** | ESP32, Arduino Uno, PIC16F877A (MPLAB IDE), ARM-based processors |
-| **Protocols** | SPI, UART, I2C, HTTP |
-| **Tools & IDEs** | Git / Github, MPLAB X IDE, PICSimLab, Arduino IDE, Android Studio, Firebase , MS Office|
-| **IoT Platforms** | Blynk IoT Cloud, Google Firebase Firestore |
-| **Concepts** | Firmware Development, GPIO, ADC, PWM, Sensor Interfacing, SDLC |
+Electronics and Communication Engineering graduate specializing in embedded systems and IoT. I build firmware that bridges hardware and software — from microcontroller state machines to cloud-connected devices. Two internships in embedded and IoT development, backed by five hands-on projects spanning PIC, ESP32, and Arduino platforms.
 
----
+<br/>
 
-## Projects
+## Tech Stack
 
-### IoT-Based Smart Restaurant Ordering System
-`ESP32` `RFID (PN532 / SPI)` `Firebase Firestore` `Android Studio` `L298N Motor Driver`
+<div align="center">
 
-Built an ESP32-powered autonomous delivery robot with RFID-based table identification over SPI protocol. Developed an Android application integrated with Firebase Firestore to manage real-time table-wise food orders, eliminating manual relay and improving order accuracy across the restaurant floor.
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+<div align="center">
 
-[View Repository](https://github.com/sathees-waran/iot-smart-restaurant-ordering-system)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-2_Stars-FF6B57?style=for-the-badge&logo=hackerrank&logoColor=white)
+![C Language](https://img.shields.io/badge/C_Language-5_Stars-FFCA28?style=for-the-badge&logo=hackerrank&logoColor=white)
 
----
+</div>
 
-### IoT-Based Home Automation System
-`Arduino Uno` `PICSimLab` `Blynk IoT Cloud` `Embedded C` `Virtual Serial Port`
+</div>
 
-Designed a home automation solution enabling remote control of appliances via the Blynk IoT mobile app. Implemented firmware in Embedded C and simulated the hardware environment using PICSimLab with virtual serial communication, demonstrating cloud-to-device command flow end-to-end.
+**Protocols & Concepts:** `SPI` `UART` `I2C` `HTTP` `GPIO` `ADC` `PWM` `Firmware Development` `Sensor Interfacing` `SDLC`
 
-[View Repository](https://github.com/sathees-waran/home-automation-arduino-blynk)
+**Microcontrollers:** ESP32 &nbsp;·&nbsp; Arduino Uno &nbsp;·&nbsp; PIC16F877A (MPLAB X IDE) &nbsp;·&nbsp; ARM-based processors
 
----
+<br/>
 
-### Microwave Oven Controller
-`PIC16F877A` `MPLAB X IDE` `Embedded C` `XC8 Compiler` `PICSimLab`
+## Currently
 
-Developed firmware for a microwave oven controller handling timing, mode selection, and safety interlocks. Features a state-machine architecture with multiple cooking modes (Microwave, Grill, Convection), CLCD output, matrix keypad input, and Timer2-based ISR countdown. Simulated the full hardware circuit in PICSimLab with real-time interrupt handling.
+- Backfilling topic-wise LeetCode solutions in C — [my-leet-solutions](https://github.com/sathees-waran/my-leet-solutions)
 
-[View Repository](https://github.com/sathees-waran/microwave-oven-embedded-c)
+<br/>
 
----
+## Featured Projects
 
-### Address Book
-`C` `GCC` `File Handling` `Structs` `Modular Programming`
+| Project | Tech Stack | Description |
+|---|---|---|
+| [IoT Smart Restaurant Ordering System](https://github.com/sathees-waran/iot-smart-restaurant-ordering-system) | ESP32, RFID (PN532/SPI), Firebase Firestore, Android Studio | Autonomous delivery robot with RFID table identification and a companion Android app for real-time order management. |
+| [Home Automation System](https://github.com/sathees-waran/home-automation-arduino-blynk) | Arduino Uno, PICSimLab, Blynk IoT, Embedded C | Remote appliance control via the Blynk app, with hardware simulated end-to-end through virtual serial communication. |
+| [Microwave Oven Controller](https://github.com/sathees-waran/microwave-oven-embedded-c) | PIC16F877A, MPLAB X IDE, XC8, PICSimLab | State-machine firmware for a microwave controller with CLCD output, keypad input, and Timer2-based ISR countdown. |
+| [Image Steganography (LSB)](https://github.com/sathees-waran/image-steganography-lsb-c) | C, Bitwise Operations, File I/O | Command-line tool to hide and extract files inside BMP images using least-significant-bit encoding. *(In progress)* |
+| [Address Book](https://github.com/sathees-waran/AddressBook-C) | C, File Handling, Structs | Menu-driven CRUD console app with input validation, duplicate detection, and file-based persistence. |
 
-Developed a menu-driven console application in C to manage contacts with full CRUD operations. Features input validation (name, phone, e-mail), duplicate detection, substring-based search, and file-based persistence using a CSV-style flat file. Code is organized across multiple files with a clean header interface.
-
-[View Repository](https://github.com/sathees-waran/AddressBook-C)
-
----
-
-### Image Steganography
-`C` `Bitwise Operations` `File I/O` `Modular Programming`
-
-Developed a command-line tool in C to hide and extract arbitrary files within BMP images using Least Significant Bit (LSB) encoding. Embeds metadata (magic string, file extension, file size) and secret file data directly into pixel bytes in a defined, deterministic order, enabling lossless decoding without external hints. Implements binary-safe file handling, capacity validation, and a clean encode/decode pipeline split across modular header/source files.
-
-[View Repository](https://github.com/sathees-waran/image-steganography-lsb-c)
-
----
+<br/>
 
 ## Experience
 
-**Embedded Systems Intern** — Emertxe Information Technologies Pvt. Ltd. *(Jan 2026 – Feb 2026)*
-Developed a microwave oven control system on PIC microcontroller in Embedded C with MPLAB IDE, implementing timing logic, mode selection, and control state machines. Gained hands-on experience in hardware–software integration and firmware debugging.
+**Embedded Systems Intern** — Emertxe Information Technologies Pvt. Ltd. &nbsp;*(Jan 2026 – Feb 2026)*
+Built microwave oven control firmware on PIC16F877A in Embedded C using MPLAB X IDE, implementing timing logic, mode selection, and state machines.
 
-**IoT Intern** — Emertxe Information Technologies Pvt. Ltd. *(Sep 2025 – Oct 2025)*
-Completed structured IoT training covering C programming, microcontroller fundamentals, and SDLC-based embedded project development. Built practical IoT applications focused on sensor integration and cloud connectivity.
+**IoT Intern** — Emertxe Information Technologies Pvt. Ltd. &nbsp;*(Sep 2025 – Oct 2025)*
+Completed structured IoT training in C programming, microcontroller fundamentals, and SDLC-based embedded project development.
 
----
+<br/>
 
 ## Education
 
-**B.E. — Electronics and Communication Engineering** — CGPA: 7.86
-Rajalakshmi Engineering College, Chennai *(2022 – 2026)*
+**B.E., Electronics and Communication Engineering** — Rajalakshmi Engineering College, Chennai
+*2022 – 2026* &nbsp;·&nbsp; CGPA: 7.86
 
----
+<br/>
 
 ## Certifications
 
 - Advanced Embedded Processors and Controllers for Next Generation Communication — IEEE MTTS
 - Introduction to Internet of Things — NPTEL
 
----
+<br/>
 
 ## Achievements
 
 - Runner-up, Analog Project Expo 2024 — Rajalakshmi Engineering College
 
----
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathees-waran&layout=compact&theme=default" alt="Top Languages" />
-</p>
+<div align="center">
 
----
+[![Email](https://img.shields.io/badge/Email-satheeswaran.vnr%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:satheeswaran.vnr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sathees--waran-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathees-waran)
 
+</div>
