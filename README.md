@@ -2,7 +2,7 @@
 
 # Satheeswaran M
 
-**Embedded Systems Engineer** &nbsp;|&nbsp; ECE Graduate 2026 &nbsp;|&nbsp; Virudhunagar, Tamilnadu, India
+**Aspiring Embedded Systems Engineer** &nbsp;|&nbsp; ECE Graduate 2026 &nbsp;|&nbsp; Virudhunagar, Tamilnadu, India
 
 [![Email](https://img.shields.io/badge/Email-satheeswaran.vnr%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:satheeswaran.vnr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sathees--waran-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathees-waran)
