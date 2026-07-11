@@ -51,7 +51,7 @@ Electronics and Communication Engineering graduate specializing in embedded syst
 
 ## Featured Projects
 
-| Project | Tech Stack | Description |
+| Project | Tech Stack & Concepts | Description |
 |---|---|---|
 | [IoT Smart Restaurant Ordering System](https://github.com/sathees-waran/iot-smart-restaurant-ordering-system) | ESP32, RFID (PN532/SPI), Firebase Firestore, Android Studio | Autonomous delivery robot with RFID table identification and a companion Android app for real-time order management. |
 | [Home Automation System](https://github.com/sathees-waran/home-automation-arduino-blynk) | Arduino Uno, PICSimLab, Blynk IoT, Embedded C | Remote appliance control via the Blynk app, with hardware simulated end-to-end through virtual serial communication. |
