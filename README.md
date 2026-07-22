@@ -24,13 +24,12 @@ Electronics and Communication Engineering graduate specializing in embedded syst
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
-![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 <div align="center">
 
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-2_Stars-FF6B57?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-3_Stars-FF6B57?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![C Language](https://img.shields.io/badge/C_Language-5_Stars-FFCA28?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 </div>
