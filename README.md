@@ -26,7 +26,9 @@ Electronics and Communication Engineering graduate specializing in embedded syst
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+
 <div align="center">
 
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-3_Stars-FF6B57?style=for-the-badge&logo=hackerrank&logoColor=white)
