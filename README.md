@@ -83,6 +83,7 @@ Completed structured IoT training in C programming, microcontroller fundamentals
 ## Certifications
 
 - Advanced Embedded Processors and Controllers for Next Generation Communication — IEEE MTTS
+- Problem Solving — HackerRank
 - Introduction to Internet of Things — NPTEL
 
 <br/>
