@@ -31,7 +31,7 @@ Electronics and Communication Engineering graduate specializing in embedded syst
 
 <div align="center">
 
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-3_Stars-FF6B57?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-4_Stars-FF6B57?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![C Language](https://img.shields.io/badge/C_Language-5_Stars-FFCA28?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 </div>
