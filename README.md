@@ -59,6 +59,7 @@ Electronics and Communication Engineering graduate specializing in embedded syst
 | [Microwave Oven Controller](https://github.com/sathees-waran/microwave-oven-embedded-c) | PIC16F877A, MPLAB X IDE, XC8, PICSimLab | State-machine firmware for a microwave controller with CLCD output, keypad input, and Timer2-based ISR countdown. |
 | [MP3 Tag Reader and Editor](https://github.com/sathees-waran/mp3-tag-reader-editor) | C, ID3v2.3 Parsing, Binary File I/O | Reads and edits six ID3v2.3 tag fields via a temp-file rewrite strategy with header size recalculation. |
 | [Image Steganography (LSB)](https://github.com/sathees-waran/image-steganography-lsb-c) | C, Bitwise Operations, File I/O | Command-line tool to hide and extract files inside BMP images using least-significant-bit encoding.|
+| [Inverted Search](https://github.com/sathees-waran/inverted-search) | C, Hash Table, Singly Linked List, File Handling | Builds a searchable word index from text files, using a hash table with linked-list chaining and file-based storage for fast keyword lookups. |
 | [Address Book](https://github.com/sathees-waran/AddressBook-C) | C, File Handling, Structs | Menu-driven CRUD console app with input validation, duplicate detection, and file-based persistence. |
 
 <br/>
