@@ -52,15 +52,18 @@ Electronics and Communication Engineering graduate specializing in embedded syst
 
 ## Featured Projects
 
-| Project | Tech Stack & Concepts | Description |
-|---|---|---|
-| [IoT Smart Restaurant Ordering System](https://github.com/sathees-waran/iot-smart-restaurant-ordering-system) | ESP32, RFID (PN532/SPI), Firebase Firestore, Android Studio | Autonomous delivery robot with RFID table identification and a companion Android app for real-time order management. |
-| [Home Automation System](https://github.com/sathees-waran/home-automation-arduino-blynk) | Arduino Uno, PICSimLab, Blynk IoT, Embedded C | Remote appliance control via the Blynk app, with hardware simulated end-to-end through virtual serial communication. |
-| [Microwave Oven Controller](https://github.com/sathees-waran/microwave-oven-embedded-c) | PIC16F877A, MPLAB X IDE, XC8, PICSimLab | State-machine firmware for a microwave controller with CLCD output, keypad input, and Timer2-based ISR countdown. |
-| [MP3 Tag Reader and Editor](https://github.com/sathees-waran/mp3-tag-reader-editor) | C, ID3v2.3 Parsing, Binary File I/O | Reads and edits six ID3v2.3 tag fields via a temp-file rewrite strategy with header size recalculation. |
-| [Image Steganography (LSB)](https://github.com/sathees-waran/image-steganography-lsb-c) | C, Bitwise Operations, File I/O | Command-line tool to hide and extract files inside BMP images using least-significant-bit encoding.|
-| [Inverted Search](https://github.com/sathees-waran/inverted-search) | C, Hash Table, Singly Linked List, File Handling | Builds a searchable word index from text files, using a hash table with linked-list chaining and file-based storage for fast keyword lookups. |
-| [Address Book](https://github.com/sathees-waran/AddressBook-C) | C, File Handling, Structs | Menu-driven CRUD console app with input validation, duplicate detection, and file-based persistence. |
+| S.no | Project | Tech Stack & Concepts | Description |
+|---|---|---|---|
+| 1.| [IoT Smart Restaurant Ordering System](https://github.com/sathees-waran/iot-smart-restaurant-ordering-system) | ESP32, RFID (PN532/SPI), Firebase Firestore, Android Studio | Autonomous delivery robot with RFID table identification and a companion Android app for real-time order management. |
+| 2.| [Home Automation System](https://github.com/sathees-waran/home-automation-arduino-blynk) | Arduino Uno, PICSimLab, Blynk IoT, Embedded C | Remote appliance control via the Blynk app, with hardware simulated end-to-end through virtual serial communication. |
+| 3.| [Microwave Oven Controller](https://github.com/sathees-waran/microwave-oven-embedded-c) | PIC16F877A, MPLAB X IDE, XC8, PICSimLab | State-machine firmware for a microwave controller with CLCD output, keypad input, and Timer2-based ISR countdown. |
+| 4.| [C Lexical Analyzer](https://github.com/sathees-waran/lexical-analyzer) | C, File Handling, String Processing, Character Classification, Compiler Design, Tokenization | Analyzes C source files by scanning characters, extracting lexemes, skipping whitespace and comments, and classifying keywords, identifiers, numeric and string constants, operators, punctuation, and preprocessor directives using modular scanning and token-classification functions. |
+| 5.| [Source to HTML Converter (S2HTML)](https://github.com/sathees-waran/source-to-html-converter) | C, State Machine, Event-Driven Programming, HTML, CSS | Converts C source files into syntax-highlighted HTML using a state-machine-based, event-driven parser that identifies keywords, identifiers, operators, constants, strings, comments, and preprocessor directives. |
+| 6.| [MP3 Tag Reader and Editor](https://github.com/sathees-waran/mp3-tag-reader-editor) | C, ID3v2.3 Parsing, Binary File I/O | Reads and edits six ID3v2.3 tag fields via a temp-file rewrite strategy with header size recalculation. |
+| 7.| [Image Steganography (LSB)](https://github.com/sathees-waran/image-steganography-lsb-c) | C, Bitwise Operations, File I/O | Command-line tool to hide and extract files inside BMP images using least-significant-bit encoding.|
+| 8.| [Inverted Search](https://github.com/sathees-waran/inverted-search) | C, Hash Table, Singly Linked List, File Handling | Builds a searchable word index from text files, using a hash table with linked-list chaining and file-based storage for fast keyword lookups. |
+| 9.| [Arbitrary Precision Calculator](https://github.com/sathees-waran/arbitrary-precision-calculator) | C, Doubly Linked List, Dynamic Memory Allocation, Pointers, DSA, Arithmetic Algorithms | Performs addition, subtraction, multiplication, and integer division on large integers using a doubly linked list, with digit-by-digit arithmetic, carry and borrow handling, partial-product multiplication, and repeated-subtraction division. |
+| 10.| [Address Book](https://github.com/sathees-waran/AddressBook-C) | C, File Handling, Structs | Menu-driven CRUD console app with input validation, duplicate detection, and file-based persistence. |
 
 <br/>
 
