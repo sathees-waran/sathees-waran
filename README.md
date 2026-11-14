@@ -45,7 +45,7 @@ Electronics and Communication Engineering graduate specializing in embedded syst
 <br/>
 
 ## Currently
-
+- Embedded C Assignments using PIC16F887A  — [Embedded-C-Assignments](https://github.com/sathees-waran/Embedded-C-Assignments)
 - Backfilling topic-wise LeetCode solutions in C — [my-leet-solutions](https://github.com/sathees-waran/my-leet-solutions)
 
 <br/>
