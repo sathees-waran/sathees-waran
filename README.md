@@ -70,18 +70,18 @@ Electronics and Communication Engineering graduate specializing in embedded syst
 
 ## Experience
 
-**Embedded Systems Intern** — Emertxe Information Technologies Pvt. Ltd. &nbsp;*(Jan 2026 – Feb 2026)*
+**Embedded Systems Intern** — Emertxe Information Technologies Pvt. Ltd. &nbsp;*(Dec 2025 – Jan 2026)*
 Built microwave oven control firmware on PIC16F877A in Embedded C using MPLAB X IDE, implementing timing logic, mode selection, and state machines.
 
 **IoT Intern** — Emertxe Information Technologies Pvt. Ltd. &nbsp;*(Sep 2025 – Oct 2025)*
-Completed structured IoT training in C programming, microcontroller fundamentals, and SDLC-based embedded project development.
+Built an IoT-Based Home Automation System covering sensor integration and cloud connectivity through the Blynk IoT platform. Integrated Arduino Uno with the cloud for real-time monitoring and control from a mobile app, and tested the command flow over a virtual COM port.
 
 <br/>
 
 ## Education
 
 **B.E., Electronics and Communication Engineering** — Rajalakshmi Engineering College, Chennai
-*2022 – 2026* &nbsp;·&nbsp; CGPA: 7.86
+*2022 – 2026* &nbsp;·&nbsp; CGPA: 7.85
 
 <br/>
 
