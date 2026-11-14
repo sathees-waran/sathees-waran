@@ -12,7 +12,7 @@
 
 <br/>
 
-Electronics and Communication Engineering graduate specializing in embedded systems and IoT. I build firmware that bridges hardware and software — from microcontroller state machines to cloud-connected devices. Two internships in embedded and IoT development, backed by five hands-on projects spanning PIC, ESP32, and Arduino platforms.
+Electronics and Communication Engineering graduate specializing in embedded systems and IoT. I build firmware that bridges hardware and software — from microcontroller state machines to cloud-connected devices. Two internships in embedded and IoT development, backed by 11 hands-on projects spanning PIC, ESP32, and Arduino platforms.
 
 <br/>
 
