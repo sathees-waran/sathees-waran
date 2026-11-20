@@ -1,6 +1,14 @@
 <div align="center">
 
-# Satheeswaran M
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=450&height=60&lines=SATHEESWARAN+M">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=100000&color=1F2328&center=true&vCenter=true&width=450&height=60&lines=SATHEESWARAN+M">
+  <img alt="Satheeswaran M" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=450&height=60&lines=SATHEESWARAN+M">
+</picture>
+
+</div>
 
 **Aspiring Embedded Systems Engineer** &nbsp;|&nbsp; ECE Graduate 2026 &nbsp;|&nbsp; Virudhunagar, Tamilnadu, India
 
@@ -31,14 +39,13 @@ Electronics and Communication Engineering graduate specializing in embedded syst
 
 <div align="center">
 
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-4_Stars-FF6B57?style=for-the-badge&logo=hackerrank&logoColor=white)
-![C Language](https://img.shields.io/badge/C_Language-5_Stars-FFCA28?style=for-the-badge&logo=hackerrank&logoColor=white)
+<a href="https://leetcode.com/u/sathees_waran/"><img src="assets/badges.svg" alt="Problem Solving 4 Stars, C Language 5 Stars, LeetCode 100+ Problems Solved"/></a>
 
 </div>
 
 </div>
 
-**Protocols & Concepts:** `SPI` `UART` `I2C` `HTTP` `GPIO` `ADC` `PWM` `Firmware Development` `Sensor Interfacing` `SDLC`
+**Protocols & Concepts:** `CAN` `SPI` `UART` `I2C` `HTTP` `GPIO` `ADC` `PWM` `Firmware Development` `Sensor Interfacing` `SDLC`
 
 **Microcontrollers:** ESP32 &nbsp;·&nbsp; Arduino Uno &nbsp;·&nbsp; PIC16F877A (MPLAB X IDE) &nbsp;·&nbsp; ARM-based processors
 
