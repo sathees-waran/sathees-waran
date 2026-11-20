@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="100" viewBox="0 0 620 100" font-family="Verdana,DejaVu Sans,sans-serif" font-size="13" font-weight="bold">
+  <style>
+    .b{opacity:0;animation:in .6s ease forwards}
+    .d2{animation-delay:.4s}
+    .d3{animation-delay:.8s}
+    .v{animation:pulse 1.6s ease-in-out 1.5s infinite}
+    @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.55}}
+  </style>
+
+  <g transform="translate(0,5)"><g class="b">
+    <rect width="200" height="36" fill="#555"/>
+    <text x="100" y="23" text-anchor="middle" fill="#fff">PROBLEM SOLVING</text>
+    <rect class="v" x="200" width="100" height="36" fill="#FF6B57"/>
+    <text x="250" y="23" text-anchor="middle" fill="#fff">4 STARS</text>
+  </g></g>
+
+  <g transform="translate(320,5)"><g class="b d2">
+    <rect width="150" height="36" fill="#555"/>
+    <text x="75" y="23" text-anchor="middle" fill="#fff">C LANGUAGE</text>
+    <rect class="v" x="150" width="110" height="36" fill="#FFCA28"/>
+    <text x="205" y="23" text-anchor="middle" fill="#333">5 STARS</text>
+  </g></g>
+
+  <g transform="translate(145,58)"><g class="b d3">
+    <rect width="110" height="36" fill="#555"/>
+    <text x="55" y="23" text-anchor="middle" fill="#fff">LEETCODE</text>
+    <rect class="v" x="110" width="220" height="36" fill="#FFA116"/>
+    <text x="220" y="23" text-anchor="middle" fill="#000">100+ PROBLEMS SOLVED</text>
+  </g></g>
+</svg>
