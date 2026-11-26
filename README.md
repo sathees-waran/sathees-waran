@@ -39,7 +39,7 @@ Electronics and Communication Engineering graduate specializing in embedded syst
 
 <div align="center">
 
-<a href="https://leetcode.com/u/sathees_waran/"><img src="assets/badges.svg" alt="Problem Solving 4 Stars, C Language 5 Stars, LeetCode 100+ Problems Solved"/></a>
+<a href="https://leetcode.com/u/sathees_waran/"><img src="assets/badges.svg" alt="HackerRank Problem Solving 4 Stars, C Language 5 Stars, C++ Language 5 Stars, LeetCode 100+ Problems Solved"/></a>
 
 </div>
 
