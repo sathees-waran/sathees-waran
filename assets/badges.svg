@@ -1,14 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="100" viewBox="0 0 680 100" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="150" viewBox="0 0 680 150" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11" font-weight="bold">
   <style>
     .b{opacity:0;animation:in .6s ease forwards}
     .d2{animation-delay:.4s}
     .d3{animation-delay:.8s}
-    .v{animation:pulse 1.6s ease-in-out 1.5s infinite}
+    .d4{animation-delay:1.2s}
+    .v{animation:pulse 1.6s ease-in-out 1.8s infinite}
     @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
     @keyframes pulse{0%,100%{opacity:1}50%{opacity:.55}}
   </style>
 
-  <g transform="translate(0,5)"><g class="b">
+  <!-- Row 1: Problem Solving -->
+  <g transform="translate(165,5)"><g class="b">
     <rect width="270" height="36" fill="#555"/>
     <rect x="10" y="10" width="16" height="16" rx="1.5" fill="#fff"/>
     <path d="M14 13h2v4h4v-4h2v10h-2v-4h-4v4h-2z" fill="#555"/>
@@ -17,7 +19,8 @@
     <text x="310" y="23" text-anchor="middle" fill="#fff">4 STARS</text>
   </g></g>
 
-  <g transform="translate(370,5)"><g class="b d2">
+  <!-- Row 2: C and C++ -->
+  <g transform="translate(20,52)"><g class="b d2">
     <rect width="230" height="36" fill="#555"/>
     <rect x="10" y="10" width="16" height="16" rx="1.5" fill="#fff"/>
     <path d="M14 13h2v4h4v-4h2v10h-2v-4h-4v4h-2z" fill="#555"/>
@@ -26,7 +29,17 @@
     <text x="270" y="23" text-anchor="middle" fill="#333">5 STARS</text>
   </g></g>
 
-  <g transform="translate(175,58)"><g class="b d3">
+  <g transform="translate(350,52)"><g class="b d3">
+    <rect width="240" height="36" fill="#555"/>
+    <rect x="10" y="10" width="16" height="16" rx="1.5" fill="#fff"/>
+    <path d="M14 13h2v4h4v-4h2v10h-2v-4h-4v4h-2z" fill="#555"/>
+    <text x="138" y="23" text-anchor="middle" fill="#fff" textLength="195" lengthAdjust="spacingAndGlyphs">HACKERRANK · C++ LANGUAGE</text>
+    <rect class="v" x="240" width="80" height="36" fill="#FFCA28"/>
+    <text x="280" y="23" text-anchor="middle" fill="#333">5 STARS</text>
+  </g></g>
+
+  <!-- Row 3: LeetCode -->
+  <g transform="translate(175,99)"><g class="b d4">
     <rect width="110" height="36" fill="#555"/>
     <text x="55" y="23" text-anchor="middle" fill="#fff">LEETCODE</text>
     <rect class="v" x="110" width="220" height="36" fill="#FFA116"/>
